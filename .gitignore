@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+MacPowerTemp
+MacPowerTemp.app/
+powerctl
+sensors.o
+*.o
+*.dSYM/
+
+# Generated icon / preview intermediates
+AppIcon.iconset/
+icon_1024.png
+icon_preview.png
+preview_*.png
